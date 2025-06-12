@@ -8,7 +8,7 @@
 ## 🦁  What’s PinkLion?
 
 > **PinkLion** is an all-in-one, $5-per-month platform that lets individual investors  
-> track portfolios, optimise asset allocation with AI, and uncover data-driven ideas —  
+> track portfolios, optimise asset allocation with AI, and uncover data-driven ideas  
 > without Bloomberg-style price tags.
 
 * Real-time portfolio & dividend tracking  
