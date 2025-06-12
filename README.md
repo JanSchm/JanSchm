@@ -1,6 +1,6 @@
 <!-- JanSchm / README.md -->
 
-<h1 align="center">Hi, I’m Jan — full-time builder of <a href="https://pinklion.xyz">PinkLion</a> 🦁</h1>
+<h1 align="center">Hi, I’m Jan — Full-time builder of <a href="https://pinklion.xyz">PinkLion</a> 🦁</h1>
 <p align="center">Turning Wall Street-grade analytics into tools every retail investor can actually use.</p>
 
 ---
