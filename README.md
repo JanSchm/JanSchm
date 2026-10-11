@@ -1,58 +1,64 @@
-<!-- JanSchm / README.md -->
-
-<h1 align="center">Hi, I’m Jan — Full-time builder of <a href="https://pinklion.xyz">PinkLion</a> 🦁</h1>
-<p align="center">Turning Wall Street-grade analytics into tools every retail investor can actually use.</p>
-
----
-
-## 🦁  What’s PinkLion?
-
-> **PinkLion** is an all-in-one, $5-per-month platform that lets individual investors  
-> track portfolios, optimise asset allocation with AI, and uncover data-driven ideas  
-> without Bloomberg-style price tags.
-
-* Real-time portfolio & dividend tracking  
-* Smart rebalancing and Monte-Carlo “what-if” simulations  
-* Thousands of up-to-date fundamentals & alternative datasets  
-* Works with any broker, on any device
-
----
-
-## 🚀  What I’m Building **Right Now**
-
-| Area | Headline Deliverables |
-| :--- | :--- |
-| **Data & Quant** | Ultra-low-latency **+ real-time WebSocket feeds**, on-chain crypto price ingestion, and automated factor back-tests in **Python 3.12 / Pandas 2** |
-| **Product & UX** | A **Tailwind + HTMX** “one-screen” portfolio cockpit, mobile-first gestures, and live drag-and-drop re-balancing |
-| **AI / ML** | Multi-step LLM pipeline: **GPT-4o** + vector search for instant ETF deep-dives, Monte-Carlo risk sims, and natural-language screener queries |
-| **Growth & SEO** | Programmatic content engine (100k+ statically-rendered pages) pre-cached at the edge with **Cloudflare Workers** |
-
----
-
-## 🛠️  Core Tech Arsenal
-
-- **Python 3.12, Django 5, FastAPI, GraphQL (Strawberry)**  
-- **Postgres 16 + TimescaleDB**, **Redis** streams, **Celery** / **RQ** workers  
-- **Docker-Compose → Fly.io & Heroku**, staged with **GitHub Actions** CI/CD  
-- **Tailwind CSS 3**, **HTMX**, **Alpine.js**, sprinkles of **React + Vite** where it counts  
-- **OpenAI Python ≥ 1.0**, **LangChain**, **FAISS** vector store for RAG workflows  
-- **Cloudflare CDN / Workers** & **Netlify** for static front-ends  
-
----
-
-## 📫  Let’s connect
-
-| | |
-| --- | --- |
-| 🌐 Website | <https://pinklion.xyz> |
-| 🐦 Twitter | <https://x.com/JanSchm93720295> |
-| 💼 LinkedIn | <https://www.linkedin.com/in/schmitzjan/> |
-| 📰 Blog | <https://pinklion.xyz/blog/> |
-
-> I’m always happy to chat about fintech, dev tooling, or side-project war stories — reach out!
-
----
-
 <p align="center">
-  <i>“Empowering the next million investors to build wealth — one feature at a time.”</i>
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/innovationcraft-header-mobile.svg" />
+    <img src="assets/innovationcraft-header.svg" alt="Jan Schmitz: From a spark to something useful. InnovationCraft: An independent AI-native product studio." width="100%" />
+  </picture>
 </p>
+
+**I'm Jan. I turn ideas into products people can put to work.**
+
+My work brings together product, design, and distribution at **InnovationCraft**, an independent AI-native product studio. I care about thoughtful software, a clear reason to exist, and the details that earn a place in someone's day.
+
+## Out in the world
+
+<table>
+  <tr>
+    <td colspan="2">
+      <a href="https://brightbean.xyz/">
+        <picture>
+          <source media="(max-width: 600px)" srcset="assets/brightbean-feature-mobile.svg" />
+          <img src="assets/brightbean-feature.svg" alt="BrightBean: Your marketing team on autopilot for social media and SEO." width="100%" />
+        </picture>
+      </a>
+      <p><strong><a href="https://brightbean.xyz/">BrightBean</a></strong> is your AI marketing team on autopilot for social media and SEO. It plans, creates, and publishes content, then learns from the results to keep your marketing moving while you focus on your business.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(max-width: 600px)" srcset="assets/brightbean-family-mobile.svg" />
+        <img src="assets/brightbean-family.svg" alt="BrightBean's open-source products: BrightBean Studio and BrightBean Chat." width="100%" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/brightbeanxyz/brightbean-studio"><picture><source media="(max-width: 600px)" srcset="assets/brightbean-studio-card-mobile.svg" /><img src="assets/brightbean-studio-card.svg" alt="BrightBean Studio: Social media, your way." width="100%" /></picture></a>
+      <p>One place to plan, publish, and manage your social channels. Built for people who want control over their workflow.</p>
+      <a href="https://github.com/brightbeanxyz/brightbean-studio"><strong>Explore Studio ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/brightbeanxyz/brightbean-chat"><picture><source media="(max-width: 600px)" srcset="assets/brightbean-chat-card-mobile.svg" /><img src="assets/brightbean-chat-card.svg" alt="BrightBean Chat: Conversations, your way." width="100%" /></picture></a>
+      <p>Visual conversation flows, a shared inbox, and messaging campaigns. Keep the conversations and the software in your hands.</p>
+      <a href="https://github.com/brightbeanxyz/brightbean-chat"><strong>Explore Chat ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Also in the family: <strong><a href="https://brightbean.xyz/intelligence/">BrightBean Intelligence</a></strong>, bringing YouTube research and content scoring to AI agents.</td>
+  </tr>
+</table>
+
+<a href="https://pinklion.xyz/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/pinklion-feature-mobile.svg" />
+    <img src="assets/pinklion-feature.svg" alt="PinkLion: Make sense of your portfolio." width="100%" />
+  </picture>
+</a>
+
+**[PinkLion](https://pinklion.xyz/)** gives you a clearer view of your investments. Track portfolios and dividends, explore scenarios, and bring better questions to your next decision.
+
+## Say hello
+
+I'm always up for a conversation with people who care about what they build.
+
+**[LinkedIn ↗](https://www.linkedin.com/in/schmitzjan/)** &nbsp; · &nbsp; **[X ↗](https://x.com/JanSchm93720295)**

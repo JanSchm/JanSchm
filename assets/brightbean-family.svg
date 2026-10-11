@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="114" viewBox="0 0 1280 114" role="img" aria-labelledby="title">
+  <title id="title">BrightBean's open-source products: BrightBean Studio and BrightBean Chat.</title>
+  <style>@media(prefers-color-scheme:dark){.label{fill:#c8ddb4}.branch{stroke:#93ac7d}.node{fill:#93ac7d}}</style>
+  <path class="branch" d="M640 0V21M640 67V85M308 114V85H972V114" fill="none" stroke="#879972" stroke-width="2" />
+  <circle class="node" cx="640" cy="6" r="4" fill="#879972" />
+  <text class="label" x="640" y="50" text-anchor="middle" fill="#586c45" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="2">BRIGHTBEAN / OPEN SOURCE</text>
+</svg>
